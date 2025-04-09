@@ -1,5 +1,6 @@
 // Classe de objetos que guarda informacoes sobre produtos e servicos oferecidos no estacionamento
- 
+// Produto e servico sao, por exemplo:
+
 public class Produto {
 
 	private double peso;
